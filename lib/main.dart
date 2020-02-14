@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'bmi.dart';
+import 'package:bmi_calculator/screens/bmi.dart';
 
 void main() => runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
